@@ -1,18 +1,15 @@
-# ☕ Java From Scratch
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80"/>
+  <br>
+  <strong>JAVA FROM SCRATCH</strong>
+</p>
+
 
 A beginner-friendly Java learning repository containing Java programs and practice code organized chapter-wise.
 
-This repository is built to help learn Java from the fundamentals through hands-on coding.
+This repository was built by me while I was learning Java from the fundamentals through hands-on coding.
 
-## 📚 Java Learning Index
-
-The table below is **automatically generated from the repository structure**.
-
-* Each top-level folder is treated as a **Chapter**.
-* The **Code Count** shows the number of `.java` files inside that chapter, including files in its subfolders.
-* Adding a new chapter/folder automatically adds it to this table.
-* Adding or removing Java files automatically updates the count.
-* The links point directly to the corresponding chapter folder.
+## Java Learning Index
 
 <!-- AUTO-INDEX:START -->
 
@@ -27,6 +24,14 @@ The table below is **automatically generated from the repository structure**.
 
 <!-- AUTO-INDEX:END -->
 
+
+The table below is **automatically generated from the repository structure**.
+
+* Each top-level folder is treated as a **Chapter**.
+* The **Code Count** shows the number of `.java` files inside that chapter, including files in its subfolders.
+* Adding a new chapter/folder automatically adds it to this table.
+* Adding or removing Java files automatically updates the count.
+* The links point directly to the corresponding chapter folder.
 ## 🗂️ Repository Structure
 
 Each chapter is maintained as a separate top-level folder.
