@@ -15,7 +15,7 @@ This repository was built by me while I was learning Java from the fundamentals 
 
 | Chapter | Code Count | Link |
 |---|---:|---|
-| Chapter_01_Numbers_and_Loops | 5 | [Open](./Chapter_01_Numbers_and_Loops) |
+| Chapter_01_Numbers | 6 | [Open](./Chapter_01_Numbers) |
 | Chapter_02_Pattern_Printing | 10 | [Open](./Chapter_02_Pattern_Printing) |
 | Chapter_03_Arrays_Fundamentals | 4 | [Open](./Chapter_03_Arrays_Fundamentals) |
 | Chapter_04_Array_Searching_and_Selection | 7 | [Open](./Chapter_04_Array_Searching_and_Selection) |
