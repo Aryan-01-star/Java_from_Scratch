@@ -1,5 +1,5 @@
 import java.util.*;
-public class swaping_var_using_temp {
+public class swaping_using_temp {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the 1st and 2nd values: ");
