@@ -1,6 +1,3 @@
-
-
-
 // Brute force approach to calculate the sum of elements in the given range
 
 
