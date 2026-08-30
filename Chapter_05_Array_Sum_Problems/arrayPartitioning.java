@@ -28,7 +28,6 @@ public class arrayPartitioning {
         for(int i=0; i<n; i++){
             arr[i] = sc.nextInt();
         }
-        // boolean exists = equalSumPartition(arr);
         System.out.println("Equal sum partition exists: " + equalSumPartition(arr));
     }
 }
