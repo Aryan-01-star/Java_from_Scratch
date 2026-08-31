@@ -21,7 +21,7 @@ This repository was built by me while I was learning Java from the fundamentals 
 | Chapter_04_Array_Searching_and_Selection | 7 | [Open](./Chapter_04_Array_Searching_and_Selection) |
 | Chapter_05_Array_Sum_Problems | 8 | [Open](./Chapter_05_Array_Sum_Problems) |
 | CHAPTER_06_Array_2_Pointer | 3 | [Open](./CHAPTER_06_Array_2_Pointer) |
-| Chapter_07_2D_Array | 2 | [Open](./Chapter_07_2D_Array) |
+| Chapter_07_2D_Array | 3 | [Open](./Chapter_07_2D_Array) |
 | Chapter_08_OOP_Basics | 1 | [Open](./Chapter_08_OOP_Basics) |
 
 <!-- AUTO-INDEX:END -->
